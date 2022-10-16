@@ -50,7 +50,9 @@ void main(List<String> arguments) {
   /**
    * Para cada secao verificada, troque as chamadas de funcao aqui no metodo main().
    * 
-   * Assim ficara mais facil para voce acompanhar os exemplos.
+   * Assim ficara mais facil para voce acompanhar os exemplos, por exemplo logo abaixo
+   * estamos chamando a funcao referente ao null safety, para chamar secao de listas
+   * a substitua por _playgroundListas();
    */
   _playgroundNullSafety();
 }
